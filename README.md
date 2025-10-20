@@ -61,9 +61,5 @@ Discover items similar to a selected product and view trending items.
 This project demonstrates the use of collaborative filtering for e-commerce personalization, backed by large-scale user-event data. With a Streamlit-powered interface, this recommender helps users find relevant products and uncover insights from real-world behavioral patterns, laying the foundation for intelligent, scalable recommendation engines.
 
 
-
-- GitHub: Swapnil718 https://github.com/Swapnil718
-- LinkedIn: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
-
 ---
 > ⭐ Star this repo if you found it useful or insightful!
