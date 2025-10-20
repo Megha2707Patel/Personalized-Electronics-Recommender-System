@@ -4,10 +4,6 @@ An interactive recommendation system that delivers personalized electronics sugg
 
 ---
 
-## 📅 Project Timeline  
-**Feb 2025 – Mar 2025**
----
-
 ## 💻 Tech Stack  
 **Python** · **Streamlit** · **scikit-learn** · **Pandas** · **NumPy** · **cosine_similarity**
 
@@ -64,7 +60,7 @@ Discover items similar to a selected product and view trending items.
 ## 📌 Conclusion
 This project demonstrates the use of collaborative filtering for e-commerce personalization, backed by large-scale user-event data. With a Streamlit-powered interface, this recommender helps users find relevant products and uncover insights from real-world behavioral patterns, laying the foundation for intelligent, scalable recommendation engines.
 
-## 📬 Connect with Me
+
 
 - GitHub: Swapnil718 https://github.com/Swapnil718
 - LinkedIn: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
